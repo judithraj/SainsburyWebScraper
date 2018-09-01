@@ -5,14 +5,11 @@ import model.Products;
 
 import java.io.IOException;
 
-/**
- * Created by judith on 29/08/2018.
- */
 public class MainApplication {
 
         /**
          * Run the application from the console
-         * e.g., mvn compile exec:java -Dexec.args=
+         * e.g., mvn compile exec:java -Dexec.args="https://jsainsburyplc.github.io/serverside-test/site/www.sainsburys.co.uk/webapp/wcs/stores/servlet/gb/groceries/berries-cherries-currants6039.html"
          * @param args URI of the products page
          * @throws WebPageFetchException
          */
