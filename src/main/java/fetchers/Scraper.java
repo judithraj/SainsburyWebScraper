@@ -16,6 +16,7 @@ import java.util.List;
 
 /**
  * Fetch  all the products in the Sainsbury's website page by using the URL
+ * Jsoup dependency is used to scrap the information in the website
  */
 
 public class Scraper implements ProductScraper {

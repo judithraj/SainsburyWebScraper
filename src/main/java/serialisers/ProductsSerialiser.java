@@ -8,9 +8,6 @@ import model.Products;
 
 import java.lang.reflect.Type;
 
-/**
- * Created by judith on 31/08/2018.
- */
 public class ProductsSerialiser {
     /**
      * JSON serializer for a collection of products, including the total unit price

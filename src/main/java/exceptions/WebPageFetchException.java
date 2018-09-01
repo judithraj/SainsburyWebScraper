@@ -1,7 +1,7 @@
 package exceptions;
 
 /**
- * Created by judith on 31/08/2018.
+ * Exception thrown when there is a problem while fetching the product
  */
 public class WebPageFetchException extends Exception {
 

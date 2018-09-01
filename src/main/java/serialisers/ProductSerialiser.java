@@ -9,7 +9,7 @@ import model.Product;
 import java.lang.reflect.Type;
 
 /**
- * Created by judith on 31/08/2018.
+ * Json serializer is been used to convert the object into String
  */
 public class ProductSerialiser implements JsonSerializer<Product> {
     @Override

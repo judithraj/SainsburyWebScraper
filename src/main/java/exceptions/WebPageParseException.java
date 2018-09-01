@@ -1,7 +1,7 @@
 package exceptions;
 
 /**
- * Created by judith on 29/08/2018.
+ *  * Exception thrown when there is a problem while parsing the web page
  */
 public class WebPageParseException extends Exception {
     public WebPageParseException(String errorMessage)

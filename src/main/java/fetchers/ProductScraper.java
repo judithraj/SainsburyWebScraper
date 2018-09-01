@@ -6,7 +6,7 @@ import model.Products;
 import java.io.IOException;
 
 /**
- * Created by judith on 31/08/2018.
+ * Interface - Fetching all products in the page
  */
 public interface ProductScraper {
     public Products fetchAll() throws WebPageFetchException, IOException;

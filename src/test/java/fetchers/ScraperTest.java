@@ -16,7 +16,7 @@ public class ScraperTest
     private Scraper testSubject = new Scraper(url);
 
  @Test(expected=java.lang.IllegalArgumentException.class)
-    public  void throwsIllegalArgumentExceptionwhenFetchAllMethodIsCalled() throws IOException {
+    public  void throwsIllegalArgumentExceptionWhenFetchAllMethodIsCalled() throws IOException {
      try {
          testSubject.fetchAll();
      } catch (WebPageFetchException e) {

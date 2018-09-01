@@ -7,7 +7,7 @@ import org.jsoup.nodes.Element;
 import java.math.BigDecimal;
 
 /**
- * Created by judith on 29/08/2018.
+ * Product class which has 4 attributes
  */
 public class Product {
 

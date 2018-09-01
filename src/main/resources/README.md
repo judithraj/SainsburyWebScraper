@@ -22,4 +22,6 @@ Testd the exception using junit test { "results": [ { "title": "Sainsbury's Stra
 ------and so on
 
 -----
-"total": {value} "gross": {value} "vat":{value} }ml"
+"total": {value}
+     "gross": {value}
+     "vat":{value} }"
